@@ -16,3 +16,5 @@ This web application developed with PHP, HTML/CSS.
 The HTML codes are shortened with PHP and the template is divided into parts.
 
 The system uses a SQLite database and the functions are coded in PHP language.
+
+Repository doesn't include any PHP codes, Assets files and CSS files.
