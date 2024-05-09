@@ -9,7 +9,7 @@ Anyone who have access to the codes is agreed to have unconditionally accepted t
 All Rights Reserved.
 
 APPBeta Mobile - www.APPBeta.net
-
+Berk ORHAN BETA
 ## About
 This web application developed with PHP, HTML/CSS.
 
