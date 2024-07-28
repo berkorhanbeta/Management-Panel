@@ -1,6 +1,6 @@
 # PHP Web Panel For WebView Application
 
-For DEMO arayuza.APPBeta.net
+For DEMO https://arayuza.APPBeta.net
 
 ## Important Warning ! :
 
